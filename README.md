@@ -30,7 +30,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 - Data Image : 사용자가 원하는 스타일을 만들어내기 위해 fine-tuning에 사용되는 Image - 50장
   
 ---
-### Class Image
+#### Class Image
 <p align="center">
   <img src="./img/class_dir/105.png" alt="image1" width="200"/>
   <img src="./img/class_dir/106.png" alt="image2" width="200"/>
@@ -38,7 +38,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
   <img src="./img/class_dir/111.png" alt="image4" width="200"/>
 </p>
 
-### Data Image
+#### Data Image
 <p align="center">
   <img src="./img/data_dir/train1/image183.jpg" alt="image1" width="200"/>
   <img src="./img/data_dir/train1/image28.jpg" alt="image2" width="200"/>
@@ -48,22 +48,22 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 
 ## For Train Image
 ---
-### Real Solider Image
+#### Real Solider Image
 <p align="center">
   <img src="./img/real_data/real_soldier.png" alt="image1"/>
 </p>
 
-### Sampling Image
+#### Sampling Image
 <p align="center">
   <img src="./img/sampling/image.png" alt="image1"/>
 </p>
 
-### Forest Image
+#### Forest Image
 <p align="center">
   <img src="./img/forest/forest.png" alt="image1"/>
 </p>
 
-### Sampling with rg blindness
+#### Sampling with rg blindness
 <p align="center">
   <img src="./img/sampling_with_rg_blindness/sample_8_102.png" alt="image1" width="200"/>
   <img src="./img/sampling_with_rg_blindness/sample_8_107.png" alt="image2" width="200"/>
