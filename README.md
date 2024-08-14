@@ -46,6 +46,10 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
   <img src="./img/sampling/image.png" alt="image1"/>
 </p>
 
+### Forest Image
+<p align="center">
+  <img src="./img/forest/forest.png" alt="image1"/>
+</p>
 
 ### Sampling with rg blindness
 <p align="center">
