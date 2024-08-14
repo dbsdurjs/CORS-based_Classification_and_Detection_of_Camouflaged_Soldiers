@@ -73,15 +73,16 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
   <img src="./img/sampling_with_rg_blindness/sample_8_46.png" alt="image3" width="200"/>
   <img src="./img/sampling_with_rg_blindness/sample_8_48.png" alt="image4" width="200"/>
 </p>
+---
 
-### Sampling with DreamBooth
+## Model Architecture
+---
+#### Sampling with DreamBooth
 <img src="./img/model_architecture/Data_generation.png" alt="image1" width="800"/>
 
-### Train with Ensemble Model
+#### Train with Ensemble Model
 <img src="./img/model_architecture/train.png" alt="image1" width="800"/>
 
-
----
 ### CORS
 데이터 셋이 탐지하기 어렵기 때문에 Classification과 Object Detection이 서로 상호보완해서 결과를 향상시켜줄 수 있는 CORS 알고리즘 제안
 <p align="center">
@@ -91,7 +92,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 
 - CT 높이기 – Object Detection탐지가 되었기 때문에 Classification의 threshold를 높여줘서 탐지 신뢰도를 높임
 - ODT 낮추기 – Classification 탐지가 되었기 때문에 Object Detection의 threshold를 0.01까지 낮춰줘서 탐지 신뢰도를 높임
-
+---
 
 ### Result loss and accuracy
 | ![image1](./img/result/Train_Loss_with_bagging.png) | ![image2](./img/result/Train_Accuracy_with_bagging.png) |
