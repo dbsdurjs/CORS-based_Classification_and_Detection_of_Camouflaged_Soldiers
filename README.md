@@ -1,6 +1,13 @@
 # CORS-based Classification and Detection of Camouflaged Soldiers
 Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble Models with Augmented Data
 
+## Goal
+- 300장의 위장 군인 데이터로 1500장의 합성 데이터 생성
+- 생성 데이터를 포함한 데이터셋으로 Classification ensemble model을 학습
+- Classification과 Object Detection의 상호보완(CORS)을 제안
+- 제안한 알고리즘으로 위장 군인 탐지 및 식별
+
+
 ### Class Image
 <p align="center">
   <img src="./class_dir/105.png" alt="image1" width="200"/>
