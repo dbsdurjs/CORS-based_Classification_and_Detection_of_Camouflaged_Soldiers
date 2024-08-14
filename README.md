@@ -117,4 +117,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 ## Future Work
 - Computing Resource가 된다면 DreamBooth 모델을 Stable Diffusionv3로 바꿔서 합성 데이터 생성
 - Object Detection Model을 생성 데이터 셋으로 fine-tuning
-  
+
+---
+
+## 국방인공지능응용학과 해커톤 대회 장려상 수상(2024.08.13)
