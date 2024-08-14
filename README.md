@@ -85,7 +85,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 <img src="./img/model_architecture/train.png" alt="image1" width="800"/>
 
 ### CORS
-데이터 셋이 탐지하기 어렵기 때문에 Classification과 Object Detection이 서로 상호보완해서 결과를 향상시켜줄 수 있는 CORS 알고리즘 제안
+**데이터 셋이 탐지하기 어렵기 때문에 Classification과 Object Detection이 서로 상호보완해서 결과를 향상시켜줄 수 있는 CORS 알고리즘 제안**
 <p align="center">
   <img src="./img/model_architecture/CORS_table.png" alt="image1" width="400" align='up'/>
   <img src="./img/model_architecture/CORS_graph.png" alt="image2" width="400" align='up'/>
