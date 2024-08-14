@@ -120,4 +120,4 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 
 ---
 
-## 국방인공지능응용학과 해커톤 대회 장려상 수상(2024.08.13)
+#### 국방인공지능응용학과 해커톤 대회 장려상 수상(2024.08.13)
