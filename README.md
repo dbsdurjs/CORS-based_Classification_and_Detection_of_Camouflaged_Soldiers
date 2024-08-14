@@ -24,7 +24,6 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 - 전차 카메라에 활용하여 매복병 탐지
 - 다른 위장 및 매복 데이터 셋에서 활용 가능
 
-
 ### Class Image
 <p align="center">
   <img src="./img/class_dir/105.png" alt="image1" width="200"/>
@@ -40,6 +39,12 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
   <img src="./img/data_dir/train1/image49.jpg" alt="image3" width="200"/>
   <img src="./img/data_dir/train1/image54.jpg" alt="image4" width="200"/>
 </p>
+
+### Real Solider Image
+<p align="center">
+  <img src="./img/real_data/real_soldier.png" alt="image1"/>
+</p>
+
 
 ### Sampling Image
 <p align="center">
