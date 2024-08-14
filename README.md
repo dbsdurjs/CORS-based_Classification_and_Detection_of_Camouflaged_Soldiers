@@ -4,7 +4,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 ## Goal
 - 300장의 위장 군인 데이터로 1500장의 합성 데이터 생성
 - 생성 데이터를 포함한 데이터셋으로 Classification ensemble model을 학습
-- Classification과 Object Detection의 상호보완(CORS)을 제안
+- **Classification과 Object Detection의 상호보완(CORS)을 제안**
 - 제안한 알고리즘으로 위장 군인 탐지 및 식별
 
 ## Problem & Solution
@@ -12,12 +12,11 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 - 생성 모델을 통해서 부족한 데이터에 대한 문제를 해결
 - 적은 데이터로 많은 데이터를 만들 수 있는 모델 탐색
 
-
 ## Task
 - 약 300장의 실제 이미지로 약 1500장의 생성 이미지 생성
 - 생성 이미지 절반은 적록 색맹 적용(750장)
 - 생성된 이미지로 Classification ensemble model 학습
-- 제안한 **상호보완 객체 인식 시스템(Complementary Object Recognition System, CORS)**으로 결과 향상
+- 제안한 **상호보완 객체 인식 시스템(Complementary Object Recognition System, CORS)** 으로 결과 향상
 
 ## Utilization Strategies
 - 비무장 지대 혹은 전쟁 중 산악 지형에서 유용하게 사용될 수 있을 것
