@@ -99,6 +99,12 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 
 ---
 ### Image test
+<p align="center">
+  <img src="./img/result/test1.png" alt="image1" width="200"/>
+  <img src="./img/result/test2.png" alt="image2" width="200"/>
+  <img src="./img/result/test3.png" alt="image3" width="200"/>
+  <img src="./img/result/test4.png" alt="image4" width="200"/>
+</p>
 
 
 
