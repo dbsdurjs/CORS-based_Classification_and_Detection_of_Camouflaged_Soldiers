@@ -50,7 +50,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 </p>
 
 ## For Train Image
----
+
 #### Real Solider Image
 <p align="center">
   <img src="./img/real_data/real_soldier.png" alt="image1"/>
@@ -77,7 +77,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 ---
 
 ## Model Architecture
----
+
 #### Sampling with DreamBooth
 <img src="./img/model_architecture/Data_generation.png" alt="image1" width="800"/>
 
