@@ -43,7 +43,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 
 ### Sampling Image
 <p align="center">
-  <img src="./img/sampling/sample.png" alt="image1"/>
+  <img src="./img/sampling/image.png" alt="image1"/>
 </p>
 
 
