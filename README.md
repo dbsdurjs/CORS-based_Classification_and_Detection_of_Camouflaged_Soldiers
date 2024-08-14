@@ -40,11 +40,12 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
   <img src="./img/data_dir/train1/image54.jpg" alt="image4" width="200"/>
 </p>
 
+## For Train Image
+---
 ### Real Solider Image
 <p align="center">
   <img src="./img/real_data/real_soldier.png" alt="image1"/>
 </p>
-
 
 ### Sampling Image
 <p align="center">
@@ -64,6 +65,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
   <img src="./img/sampling_with_rg_blindness/sample_8_48.png" alt="image4" width="200"/>
 </p>
 
+---
 ### Result loss and accuracy
 | ![image1](./img/result/Train_Loss_with_bagging.png) | ![image2](./img/result/Train_Accuracy_with_bagging.png) |
 |:----------------------------------------------:|:--------------------------------------------------:|
