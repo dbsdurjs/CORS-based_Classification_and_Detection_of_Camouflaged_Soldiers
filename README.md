@@ -24,6 +24,12 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 - 전차 카메라에 활용하여 매복병 탐지
 - 다른 위장 및 매복 데이터 셋에서 활용 가능
 
+## For Generation Image
+- Draembooth 모델을 활용해서 약 300장의 실제 이미지로 약 1500장의 합성 이미지 생성
+- Class Image : Class를 보존하기 위한 Image(prior preservation loss을 위해 사용) - 250장
+- Data Image : 사용자가 원하는 스타일을 만들어내기 위해 fine-tuning에 사용되는 Image - 50장
+  
+---
 ### Class Image
 <p align="center">
   <img src="./img/class_dir/105.png" alt="image1" width="200"/>
