@@ -73,6 +73,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
   <img src="./img/sampling_with_rg_blindness/sample_8_46.png" alt="image3" width="200"/>
   <img src="./img/sampling_with_rg_blindness/sample_8_48.png" alt="image4" width="200"/>
 </p>
+
 ---
 
 ## Model Architecture
