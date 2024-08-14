@@ -17,7 +17,7 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 - 약 300장의 실제 이미지로 약 1500장의 생성 이미지 생성
 - 생성 이미지 절반은 적록 색맹 적용(750장)
 - 생성된 이미지로 Classification ensemble model 학습
-- 제안한 **상호보완 객체 인식 시스템(Complementary Object Recognition System, CORS)**으로 결과 향상
+- 제안한 __상호보완 객체 인식 시스템(Complementary Object Recognition System, CORS)__으로 결과 향상
 
 ## Utilization Strategies
 - 비무장 지대 혹은 전쟁 중 산악 지형에서 유용하게 사용될 수 있을 것
