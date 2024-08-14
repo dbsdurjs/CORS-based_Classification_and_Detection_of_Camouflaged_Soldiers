@@ -27,4 +27,4 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 |:----------------------------------------------------:|:---------------------------------------------------------:|
 | Validation Loss                                      | Validation Accuracy                                        |
 
-<img src="./result/Test_Accuracy.png" alt="image5" width="200"/>
+<img src="./result/Test_Accuracy.png" alt="image5"/>
