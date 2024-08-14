@@ -1,4 +1,4 @@
-# CORS-based Classification and Detection of Camouflaged Soldiers
+![image](https://github.com/user-attachments/assets/149322c9-a790-4133-95a0-4b649ec1bf8f)# CORS-based Classification and Detection of Camouflaged Soldiers
 Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble Models with Augmented Data
 
 <img src="./img/result/CORS_result.png" alt="image1"/>
@@ -75,6 +75,13 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 </p>
 
 ---
+### CORS
+데이터 셋이 탐지하기 어렵기 때문에 Classification과 Object Detection이 서로 상호보완해서 결과를 향상시켜줄 수 있는 CORS 알고리즘 제안
+
+- CT 높이기 – Object Detection탐지가 되었기 때문에 Classification의 threshold를 높여줘서 탐지 신뢰도를 높임
+- ODT 낮추기 – Classification 탐지가 되었기 때문에 Object Detection의 threshold를 0.01까지 낮춰줘서 탐지 신뢰도를 높임
+
+
 ### Result loss and accuracy
 | ![image1](./img/result/Train_Loss_with_bagging.png) | ![image2](./img/result/Train_Accuracy_with_bagging.png) |
 |:----------------------------------------------:|:--------------------------------------------------:|
