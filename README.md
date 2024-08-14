@@ -1,6 +1,22 @@
 # CORS-based Classification and Detection of Camouflaged Soldiers
 Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble Models with Augmented Data
 
+### Class Image
+<p align="center">
+  <img src="./class_dir/105.png" alt="image1" width="200"/>
+  <img src="./class_dir/106.png" alt="image2" width="200"/>
+  <img src="./class_dir/109.png" alt="image3" width="200"/>
+  <img src="./class_dir/111.png" alt="image4" width="200"/>
+</p>
+
+### Data Image
+<p align="center">
+  <img src="./data_dir/train1/image183.jpg" alt="image1" width="200"/>
+  <img src="./data_dir/train1/image28.jpg" alt="image2" width="200"/>
+  <img src="./data_dir/train1/image49.jpg" alt="image3" width="200"/>
+  <img src="./data_dir/train1/image54.jpg" alt="image4" width="200"/>
+</p>
+
 ### Sampling Image
 <p align="center">
   <img src="./sampling/sample_2_97.png" alt="image1" width="200"/>
@@ -28,3 +44,5 @@ Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble M
 | Validation Loss                                      | Validation Accuracy                                        |
 
 <img src="./result/Test_Accuracy.png" alt="image5"/>
+
+
