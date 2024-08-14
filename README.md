@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/61b09aae-8e98-44b6-bf1c-a72b8056c81f)![image](https://github.com/user-attachments/assets/9f99414c-a8b9-442f-9a42-3ea533f0ddd5)# CORS-based Classification and Detection of Camouflaged Soldiers
+# CORS-based Classification and Detection of Camouflaged Soldiers
 Classification and Detection of Camouflaged Soldiers Using CORS-Based Ensemble Models with Augmented Data
 
 ## Goal
